@@ -1,0 +1,13 @@
+.back-to--top {
+  position: fixed;
+  bottom: 10rem;
+  right: 3rem;
+}
+
+.back-to--top button {
+  box-shadow: 0 0px 20px 1px rgb(0 0 0 / 26%);
+  border-radius: 100%;
+  width: 5rem;
+  height: 5rem;
+  cursor: pointer;
+}

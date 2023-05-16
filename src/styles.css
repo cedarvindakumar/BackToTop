@@ -1,0 +1,10 @@
+.App {
+  text-align: left;
+  padding: 23px;
+  font-family: sans-serif;
+}
+.App p {
+  line-height: 25px;
+  color: #775c5c;
+  font-size: 15px;
+}
